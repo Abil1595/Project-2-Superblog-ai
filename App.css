@@ -1,0 +1,176 @@
+.abi1
+{
+  width: 55%;
+ margin-left: 20px;
+}
+
+.hov:hover 
+{
+  color: green;
+}
+.c1 
+{
+  height: 100px;
+}
+.a1 
+{
+  
+  color: #424242;
+ 
+  letter-spacing: -.025em;
+  display: block;
+  padding: 10px;
+  flex-wrap: wrap;
+
+}
+.a2 
+{
+  word-spacing: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+  color: #424242;
+  font-size: 18px;
+
+}
+.a3 
+{
+  width: 95%;
+  border-radius: 10px;
+}
+.a4 
+{
+  padding: 16px;
+}
+.a5
+{
+
+  color: #43b730;
+  width: 18%;
+  border-radius: 10px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+}
+.a6
+{
+
+  color: #43b730;
+  width: 15%;
+  border-radius: 10px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+ 
+}
+.a7 
+{
+  width: 95%;
+  padding: 20px;
+   border-radius: 40px;
+}
+.a8 
+{
+  width: 95%;
+  padding: 30px;
+   border-radius: 40px;
+}
+.a9  
+{
+  padding: 30px;
+}
+.a9:hover 
+{
+  color: green;
+}
+.a10
+{
+  width: 98%;
+  padding: 30px;
+   border-radius: 40px;
+}
+.a11
+{
+  color: #43b730;
+  width: 16%;
+  border-radius: 8px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+  font-size: 14px;
+}
+.a12
+{
+  width: 100%;
+  padding: 20px;
+   border-radius: 30px;
+}
+.a13
+{
+  color: #43b730;
+  width: 25%;
+  border-radius: 8px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+  font-size: 14px;
+}
+.a14
+{
+  width: 98%;
+  padding: 30px;
+   border-radius: 40px;
+}
+.a15
+{
+  color: #43b730;
+  width: 37%;
+  border-radius: 8px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+  font-size: 14px;
+}
+.a16
+{
+  background: rgb(67 183 48 / 10%);
+  text-align: center;
+  padding: 30px;
+
+  border-radius: 20px;
+}
+.b1 
+{
+  padding: 20px;
+}
+.b1:hover
+{
+  color: green;
+}
+.b2 
+{
+  font-weight: var(--chakra-fontWeights-extrabold);
+  font-family: var(--chakra-fonts-body);
+  font-size: 70px;
+  text-align: center;
+  max-width: var(--chakra-sizes-5xl);
+  color: #2D3748;
+}
+.b3
+{
+  font-weight: var(--chakra-fontWeights-extrabold);
+  font-family: var(--chakra-fonts-body);
+  font-size: 40px;
+  text-align: center;
+  max-width: var(--chakra-sizes-4xl);
+  color: #718096;
+}
+.b4 
+{
+  width: 100%;
+  
+}
+ .abi2
+{
+ margin-left: 25px;
+  font-size: 13px;
+  margin-top: 35px;
+}
+.abi2>img 
+{
+  width: 50%;
+}
